@@ -9,6 +9,7 @@ My personal Obsidian system for structured daily notes, using Templater automati
   - Properly formatted header (e.g., `# Thursday July 17`)
   - 📅 Navigation links to Yesterday and Tomorrow
   - Placeholder for notes or journaling
+  - Cursor automatically placed at the first bullet point
 
 - `Historical Daily Log Template.md`  
   Cleans up imported notes (e.g., from Evernote), replacing any incorrect H1 with the correct one from the filename and standardizing layout. Features:
